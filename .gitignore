@@ -1,0 +1,21 @@
+# Build output
+build/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+program
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Editor backups
+*~
+*.swp
